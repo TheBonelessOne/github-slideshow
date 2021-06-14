@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Written as below (replace standard text)
+Non generic message
 Use the Left arrow to go back!
